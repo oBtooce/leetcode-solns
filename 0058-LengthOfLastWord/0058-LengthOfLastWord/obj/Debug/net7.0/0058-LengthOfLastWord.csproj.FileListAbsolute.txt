@@ -1,0 +1,15 @@
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\bin\Debug\net7.0\0058-LengthOfLastWord.exe
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\bin\Debug\net7.0\0058-LengthOfLastWord.deps.json
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\bin\Debug\net7.0\0058-LengthOfLastWord.runtimeconfig.json
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\bin\Debug\net7.0\0058-LengthOfLastWord.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\bin\Debug\net7.0\0058-LengthOfLastWord.pdb
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\obj\Debug\net7.0\0058-LengthOfLastWord.csproj.AssemblyReference.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\obj\Debug\net7.0\0058-LengthOfLastWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\obj\Debug\net7.0\0058-LengthOfLastWord.AssemblyInfoInputs.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\obj\Debug\net7.0\0058-LengthOfLastWord.AssemblyInfo.cs
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\obj\Debug\net7.0\0058-LengthOfLastWord.csproj.CoreCompileInputs.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\obj\Debug\net7.0\0058-LengthOfLastWord.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\obj\Debug\net7.0\refint\0058-LengthOfLastWord.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\obj\Debug\net7.0\0058-LengthOfLastWord.pdb
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\obj\Debug\net7.0\0058-LengthOfLastWord.genruntimeconfig.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0058-LengthOfLastWord\0058-LengthOfLastWord\obj\Debug\net7.0\ref\0058-LengthOfLastWord.dll

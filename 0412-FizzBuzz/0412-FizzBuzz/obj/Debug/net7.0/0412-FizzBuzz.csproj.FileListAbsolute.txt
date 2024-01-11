@@ -1,0 +1,15 @@
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\obj\Debug\net7.0\0412-FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\obj\Debug\net7.0\0412-FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\obj\Debug\net7.0\0412-FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\obj\Debug\net7.0\0412-FizzBuzz.AssemblyInfo.cs
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\obj\Debug\net7.0\0412-FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\bin\Debug\net7.0\0412-FizzBuzz.exe
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\bin\Debug\net7.0\0412-FizzBuzz.deps.json
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\bin\Debug\net7.0\0412-FizzBuzz.runtimeconfig.json
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\bin\Debug\net7.0\0412-FizzBuzz.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\bin\Debug\net7.0\0412-FizzBuzz.pdb
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\obj\Debug\net7.0\0412-FizzBuzz.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\obj\Debug\net7.0\refint\0412-FizzBuzz.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\obj\Debug\net7.0\0412-FizzBuzz.pdb
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\obj\Debug\net7.0\0412-FizzBuzz.genruntimeconfig.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0412-FizzBuzz\0412-FizzBuzz\obj\Debug\net7.0\ref\0412-FizzBuzz.dll

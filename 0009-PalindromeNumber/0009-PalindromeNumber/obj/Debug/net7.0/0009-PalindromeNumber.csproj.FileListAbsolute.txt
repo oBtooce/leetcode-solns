@@ -1,0 +1,15 @@
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\bin\Debug\net7.0\0009-PalindromeNumber.exe
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\bin\Debug\net7.0\0009-PalindromeNumber.deps.json
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\bin\Debug\net7.0\0009-PalindromeNumber.runtimeconfig.json
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\bin\Debug\net7.0\0009-PalindromeNumber.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\bin\Debug\net7.0\0009-PalindromeNumber.pdb
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\obj\Debug\net7.0\0009-PalindromeNumber.csproj.AssemblyReference.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\obj\Debug\net7.0\0009-PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\obj\Debug\net7.0\0009-PalindromeNumber.AssemblyInfoInputs.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\obj\Debug\net7.0\0009-PalindromeNumber.AssemblyInfo.cs
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\obj\Debug\net7.0\0009-PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\obj\Debug\net7.0\0009-PalindromeNumber.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\obj\Debug\net7.0\refint\0009-PalindromeNumber.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\obj\Debug\net7.0\0009-PalindromeNumber.pdb
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\obj\Debug\net7.0\0009-PalindromeNumber.genruntimeconfig.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0009-PalindromeNumber\0009-PalindromeNumber\obj\Debug\net7.0\ref\0009-PalindromeNumber.dll

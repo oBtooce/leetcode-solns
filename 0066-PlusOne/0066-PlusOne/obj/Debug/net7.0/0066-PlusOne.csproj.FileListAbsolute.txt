@@ -1,0 +1,15 @@
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\bin\Debug\net7.0\0066-PlusOne.exe
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\bin\Debug\net7.0\0066-PlusOne.deps.json
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\bin\Debug\net7.0\0066-PlusOne.runtimeconfig.json
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\bin\Debug\net7.0\0066-PlusOne.dll
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\bin\Debug\net7.0\0066-PlusOne.pdb
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\obj\Debug\net7.0\0066-PlusOne.csproj.AssemblyReference.cache
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\obj\Debug\net7.0\0066-PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\obj\Debug\net7.0\0066-PlusOne.AssemblyInfoInputs.cache
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\obj\Debug\net7.0\0066-PlusOne.AssemblyInfo.cs
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\obj\Debug\net7.0\0066-PlusOne.csproj.CoreCompileInputs.cache
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\obj\Debug\net7.0\0066-PlusOne.dll
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\obj\Debug\net7.0\refint\0066-PlusOne.dll
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\obj\Debug\net7.0\0066-PlusOne.pdb
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\obj\Debug\net7.0\0066-PlusOne.genruntimeconfig.cache
+C:\Users\Alex Waddell\Documents\Coding Projects\0066-PlusOne\0066-PlusOne\obj\Debug\net7.0\ref\0066-PlusOne.dll

@@ -1,0 +1,15 @@
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\bin\Debug\net7.0\0125-ValidPalindrome.exe
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\bin\Debug\net7.0\0125-ValidPalindrome.deps.json
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\bin\Debug\net7.0\0125-ValidPalindrome.runtimeconfig.json
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\bin\Debug\net7.0\0125-ValidPalindrome.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\bin\Debug\net7.0\0125-ValidPalindrome.pdb
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\obj\Debug\net7.0\0125-ValidPalindrome.csproj.AssemblyReference.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\obj\Debug\net7.0\0125-ValidPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\obj\Debug\net7.0\0125-ValidPalindrome.AssemblyInfoInputs.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\obj\Debug\net7.0\0125-ValidPalindrome.AssemblyInfo.cs
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\obj\Debug\net7.0\0125-ValidPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\obj\Debug\net7.0\0125-ValidPalindrome.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\obj\Debug\net7.0\refint\0125-ValidPalindrome.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\obj\Debug\net7.0\0125-ValidPalindrome.pdb
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\obj\Debug\net7.0\0125-ValidPalindrome.genruntimeconfig.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0125-ValidPalindrome\0125-ValidPalindrome\obj\Debug\net7.0\ref\0125-ValidPalindrome.dll

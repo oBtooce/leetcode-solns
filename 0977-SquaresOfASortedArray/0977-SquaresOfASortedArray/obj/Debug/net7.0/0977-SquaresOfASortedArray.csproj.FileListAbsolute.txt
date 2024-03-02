@@ -1,0 +1,15 @@
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\obj\Debug\net7.0\0977-SquaresOfASortedArray.csproj.AssemblyReference.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\obj\Debug\net7.0\0977-SquaresOfASortedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\obj\Debug\net7.0\0977-SquaresOfASortedArray.AssemblyInfoInputs.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\obj\Debug\net7.0\0977-SquaresOfASortedArray.AssemblyInfo.cs
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\obj\Debug\net7.0\0977-SquaresOfASortedArray.csproj.CoreCompileInputs.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\bin\Debug\net7.0\0977-SquaresOfASortedArray.exe
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\bin\Debug\net7.0\0977-SquaresOfASortedArray.deps.json
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\bin\Debug\net7.0\0977-SquaresOfASortedArray.runtimeconfig.json
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\bin\Debug\net7.0\0977-SquaresOfASortedArray.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\bin\Debug\net7.0\0977-SquaresOfASortedArray.pdb
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\obj\Debug\net7.0\0977-SquaresOfASortedArray.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\obj\Debug\net7.0\refint\0977-SquaresOfASortedArray.dll
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\obj\Debug\net7.0\0977-SquaresOfASortedArray.pdb
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\obj\Debug\net7.0\0977-SquaresOfASortedArray.genruntimeconfig.cache
+C:\Users\Alex Waddell\Documents\Leetcode Solutions\0977-SquaresOfASortedArray\0977-SquaresOfASortedArray\obj\Debug\net7.0\ref\0977-SquaresOfASortedArray.dll
